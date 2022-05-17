@@ -91,10 +91,10 @@ plt.show()
 </br>
 ![3 2](https://user-images.githubusercontent.com/94827772/168751283-fe66d6fe-483d-4edc-8da6-77a53c794c79.png)
 </br>
+![3 3](https://user-images.githubusercontent.com/94827772/168751143-a6339b24-4b3e-4072-a900-333c7a976ab0.png)
+</br>
 ### LAPLACIAN EDGE DETECTO
 ![2 1](https://user-images.githubusercontent.com/94827772/168751134-af6ba9b9-dc42-4c50-90ad-92fd8cdc275f.png)
-</br>
-![3 3](https://user-images.githubusercontent.com/94827772/168751143-a6339b24-4b3e-4072-a900-333c7a976ab0.png)
 </br>
 ### CANNY EDGE DETECTOR
 ![2 2](https://user-images.githubusercontent.com/94827772/168750601-c79e0e27-4127-44a1-ab50-41d82d3a1e46.png)
