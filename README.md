@@ -31,7 +31,10 @@ Show all the operated images output.
 End the program.
  
 ## Program:
-
+### Developed by:
+G venkata Pavan Kumar.
+### Register Number:
+212221240013
 ``` Python
 # Import the packages
 import cv2
