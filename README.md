@@ -31,11 +31,10 @@ Show all the operated images output.
 End the program.
  
 ## Program:
-### Developed by:
-G venkata Pavan Kumar.
-### Register Number:
-212221240013
+
 ``` Python
+### Developed by: G venkata Pavan Kumar.
+### Register Number: 212221240013
 # Import the packages
 import cv2
 import matplotlib.pyplot as plt
